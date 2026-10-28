@@ -5,27 +5,19 @@ h1 {
 p{
     font-size: 25px;
 }
-.buttons
+div.buttons
 {
-    display: inline-block;
-    padding: 20px 10px;
-    font-family: 10px;
-    text-align: center;
-    text-decoration: none;
-    outline: none;
+    width: 10px;
+    height: 10px;
+    border-style: dotted solid double;
+    border-width: thin medium thick;
 
-    background-color: teal;
-    color: white;
-
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
 }
 .button
 {
     display: inline-block;
     padding: 20px 10px;
-    font-family: 10px;
+    font-size: 10px;
     text-align: center;
     text-decoration: none;
     outline: none;
