@@ -1,0 +1,23 @@
+h1 {
+    color:aqua;
+    margin-left:20px;
+}
+p{
+    font-size: 25px;
+}
+.button
+{
+    display: inline-block;
+    padding: 20px 10px;
+    font-family: 10px;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+
+    background-color: teal;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
