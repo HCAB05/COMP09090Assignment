@@ -5,6 +5,22 @@ h1 {
 p{
     font-size: 25px;
 }
+.buttons
+{
+    display: inline-block;
+    padding: 20px 10px;
+    font-family: 10px;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+
+    background-color: teal;
+    color: white;
+
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
 .button
 {
     display: inline-block;
